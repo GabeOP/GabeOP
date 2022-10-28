@@ -1,8 +1,15 @@
-<h2>Olá! Me chamo Gabriel. 👋🐒 </h2>
+<h1>Olá, me chamo Gabriel. Seja bem-vindo(a) ao meu perfil! 👋🐒</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabeOP&color=yellow" alt="Profile views" /> </p>
+
+<img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabeOP&show_icons=true&theme=dracula)
+
+## Minhas redes
+<div style="display: inline-block">
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-pereira/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabb_op/" target="_blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
 ## Tecnologias
 
