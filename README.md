@@ -1,5 +1,5 @@
 ### Olá, bem-vindo(a)! 🙋‍♂️
-Estudo programação desde **dezembro de 2021**. Em **setembro de 2022** participei do <a href="https://oglobo.globo.com/conteudo-de-marca/tem-no-rio/tem-inovacao-no-rio/noticia/2022/11/projeto-programadores-cariocas-capacita-jovens-do-rio-para-a-area-de-ti.ghtml">Programadores Cariocas</a> e hoje tenho conhecimento de diversas ferramentas e continuo em constante evolução. Fique à vontade para entrar em contato comigo através de qualquer uma das minhas redes!
+Estudo programação desde **dezembro de 2021**. Em **setembro de 2022** participei do <a href="https://oglobo.globo.com/conteudo-de-marca/tem-no-rio/tem-inovacao-no-rio/noticia/2022/11/projeto-programadores-cariocas-capacita-jovens-do-rio-para-a-area-de-ti.ghtml" target="_blank">Programadores Cariocas</a> e hoje tenho conhecimento de diversas ferramentas e continuo em constante evolução. Fique à vontade para entrar em contato comigo através de qualquer uma das minhas redes!
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-oliveira-pereira/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
